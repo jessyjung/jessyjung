@@ -1,10 +1,10 @@
 ### :star_struck: HALO, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jessy :star_struck:
 
 ## :heavy_heart_exclamation: About Me
-→ Jessy Mihye Jung <br>
-→ University of New South Wales <br>
-→ Commerce Majoring Marketing <br>
-→ jessy_0607@naver.com <br>
+:woman: Jessy Mihye Jung <br>
+:woman_student: University of New South Wales <br>
+:point_right: Commerce Majoring Marketing <br>
+:email: jessy_0607@naver.com <br>
 
 ## :heavy_heart_exclamation: Tech Stacks
 *Back-End*
