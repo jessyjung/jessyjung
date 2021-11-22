@@ -1,16 +1,12 @@
 ### :star_struck: HALO N WELCOME :star_struck:
 
-<!--
-**jessyjung/jessyjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:white_heart: **Personal Info** 
+<hr>
+→ Jessy Mihye Jung <br>
+→ University of New South Wales <br>
+→ Commerce Majoring Marketing <br>
+→ jessy_0607@naver.com <br>
+<br>
+<br>
+:white_heart: **Text** 
+<hr>
