@@ -6,7 +6,7 @@
 → Commerce Majoring Marketing <br>
 → jessy_0607@naver.com <br>
 
-## :white_heart: Primary Tech Stacks
+## :white_heart: Tech Stacks
 *Back-End*
 <br>
 <table>
