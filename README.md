@@ -1,6 +1,6 @@
 ### :star_struck: HALO, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jessy :star_struck:
 
-## :heavy_heart_exclamation: Currently Learning
+## :heavy_heart_exclamation: About Me
 → Jessy Mihye Jung <br>
 → University of New South Wales <br>
 → Commerce Majoring Marketing <br>
