@@ -1,12 +1,12 @@
 ### :star_struck: HALO, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jessy :star_struck:
 
-## :white_heart: Currently Learning
+## :heavy_heart_exclamation: Currently Learning
 → Jessy Mihye Jung <br>
 → University of New South Wales <br>
 → Commerce Majoring Marketing <br>
 → jessy_0607@naver.com <br>
 
-## :white_heart: Tech Stacks
+## :heavy_heart_exclamation: Tech Stacks
 *Back-End*
 <br>
 <table>
@@ -130,3 +130,11 @@
 </tr>
 </tbody>
 </table>
+
+## :heavy_heart_exclamation: Github Activities
+<a href="https://github.com/jessyjung">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyjung&show_icons=true&hide_border=falset&line_height=50&title_color=F361A6&icon_color=FFB2D9" />
+  </a>
+  <a href="https://github.com/jessyjung">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessyjung&show_icons=true&hide_border=falset&line_height=20&title_color=F361A6&icon_color=FFB2D9" alt="Jessy's github stats"/>
+</a>
