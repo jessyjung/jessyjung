@@ -59,7 +59,7 @@
 </tbody>
 </table>
 
-*Front-End*
+*Front-End - Currently Learning*
 <table>
 <tbody>
  <tr>
