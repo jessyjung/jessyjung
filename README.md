@@ -1,4 +1,4 @@
-### Hi there 👋
+### :star_struck: HALO N WELCOME :star_struck:
 
 <!--
 **jessyjung/jessyjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
