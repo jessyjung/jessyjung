@@ -1,4 +1,4 @@
-### :star_struck: HALO, I'm Jessy :star_struck:
+### :star_struck: HALO, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jessy :star_struck:
 
 ## :white_heart: Currently Learning
 → Jessy Mihye Jung <br>
